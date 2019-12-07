@@ -1,6 +1,6 @@
 import React,{useState} from 'react';
 import './App.css';
-import InputNumber from './InputNumber/InputNumber'
+import InputNumber from './InputNumber/inputNumber'
 
 function App(){
   const [value,setValue] = useState('aaa')
